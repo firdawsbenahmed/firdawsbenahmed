@@ -1,20 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/images/ae17b4faed467191b99656a962e1a1fd/tenor.gif" alt="Animated girl using computer"/>
-</div>
-
-
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=firdawsbenahmed.firdawsbenahmed&"  />
-</div>
 
 ###
 
@@ -79,3 +62,6 @@
 </div>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=firdawsbenahmed.firdawsbenahmed&"  />
+</div>
