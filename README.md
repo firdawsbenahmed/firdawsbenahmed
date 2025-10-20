@@ -1,14 +1,13 @@
 <div align="center">
-  <img height="150" src="https://YOUR-GIF-URL.gif" alt="Animated girl using computer"/>
+  <img height="150" src="https://media.tenor.com/images/ae17b4faed467191b99656a962e1a1fd/tenor.gif" alt="Animated girl using computer"/>
 </div>
+
 
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
