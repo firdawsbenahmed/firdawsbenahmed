@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?](https://www.linkedin.com/in/firdaws-benahmed-a88004282/)type=rect&color=0:09090e,100:1a1530&height=230&section=header&text=FIRDAWS%20BENAHMED&fontColor=e6dcc3&fontSize=44&fontAlign=50&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descColor=cfc6e8&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Firdaws Benahmed" />
+  <a href="https://www.linkedin.com/in/firdaws-benahmed-a88004282/">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090e,100:1a1530&height=230&section=header&text=FIRDAWS%20BENAHMED&fontColor=e6dcc3&fontSize=44&fontAlign=50&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descColor=cfc6e8&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Firdaws Benahmed" />
+  </a>
 </p>
 
 <p align="center">
