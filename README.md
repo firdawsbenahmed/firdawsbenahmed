@@ -58,7 +58,7 @@
 <p align="center"><sub>◆ &nbsp; ◆ &nbsp; ◆</sub></p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2MHQ3ZHFhaDZvcThpY3NtNG1yOHg5cTVvMnp4Mnl2ZmFrbHhxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C9VLSOoxiC4FYkbUxW/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmQ1dTYwdTV4YTYxam5oZXE0OXJ3OTM5cHNtcDV2aHgxMzNsY3J0YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KG08U0ddEnuc5eOYbT/giphy.gif)" width="420" alt="" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmQ1dTYwdTV4YTYxam5oZXE0OXJ3OTM5cHNtcDV2aHgxMzNsY3J0YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KG08U0ddEnuc5eOYbT/giphy.gif" width="420" alt="" />
 </p>
 
 <p align="center">
