@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/firdaws-benahmed-a88004282/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090e,100:1a1530&height=230&section=header&text=FIRDAWS%20BENAHMED&fontColor=e6dcc3&fontSize=44&fontAlign=50&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descColor=cfc6e8&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Firdaws Benahmed" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=C9B8FF&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems;Passionate+about+AI+%26+Data+Science;Currently+learning+Deep+Learning" alt="Typing SVG" />
   </a>
