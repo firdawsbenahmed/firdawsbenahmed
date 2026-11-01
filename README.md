@@ -1,6 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110"><defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090e"/><stop offset="1" stop-color="#1a1530"/></linearGradient>
-<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9b8ff" stop-opacity="0"/><stop offset=".5" stop-color="#e6dcc3"/><stop offset="1" stop-color="#c9b8ff" stop-opacity="0"/></linearGradient>
-<radialGradient id="glow"><stop offset="0" stop-color="#8b6cf0" stop-opacity=".35"/><stop offset="1" stop-color="#8b6cf0" stop-opacity="0"/></radialGradient>
-</defs><rect width="1000" height="110" rx="6" fill="url(#bg)"/><circle cx="788" cy="40" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.3s" begin="1.9s" repeatCount="indefinite"/></circle><circle cx="238" cy="62" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.8s" begin="1.8s" repeatCount="indefinite"/></circle><circle cx="780" cy="51" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.8s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="521" cy="46" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.2s" begin="2.5s" repeatCount="indefinite"/></circle><circle cx="664" cy="66" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.2s" begin="2.6s" repeatCount="indefinite"/></circle><circle cx="858" cy="60" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.4s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="437" cy="65" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.1s" begin="1.9s" repeatCount="indefinite"/></circle><circle cx="222" cy="53" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.7s" begin="3.2s" repeatCount="indefinite"/></circle><circle cx="779" cy="52" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.9s" begin="3.8s" repeatCount="indefinite"/></circle><circle cx="782" cy="45" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="6.0s" begin="0.1s" repeatCount="indefinite"/></circle><line x1="250" y1="34" x2="750" y2="34" stroke="url(#ln)" stroke-width="1.2"/><rect x="496" y="30" width="8" height="8" fill="#e6dcc3" transform="rotate(45 500 34)"/>
-<text x="500" y="76" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19" letter-spacing="3" fill="#cfc6e8"><animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>currently learning deep learning</text></svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090e,100:1a1530&height=230&section=header&text=FIRDAWS%20BENAHMED&fontColor=e6dcc3&fontSize=44&fontAlign=50&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descColor=cfc6e8&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Firdaws Benahmed" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=C9B8FF&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems;Passionate+about+AI+%26+Data+Science;Currently+learning+Deep+Learning" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center"><sub>◆ &nbsp; ◆ &nbsp; ◆</sub></p>
+
+<h3 align="center"><code>E X P E R T I S E</code></h3>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center"><i>01 &nbsp;Intelligence</i></h4>
+      <p align="center">
+        Python · Jupyter · Kaggle<br>
+        TensorFlow<br>
+        NLP &amp; Large Language Models<br>
+        Graph Neural Networks<br>
+        Computer Vision<br>
+        MCP Servers
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center"><i>02 &nbsp;Engineering</i></h4>
+      <p align="center">
+        FastAPI<br>
+        PostgreSQL · MySQL<br>
+        SQLAlchemy · Alembic<br>
+        Docker<br>
+        Linux<br>
+        Java
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center"><i>03 &nbsp;Interface</i></h4>
+      <p align="center">
+        Next.js · React<br>
+        TypeScript · JavaScript<br>
+        HTML · CSS · Tailwind<br>
+        Dart<br>
+        Figma
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,postgres,docker,linux,nextjs,react,ts,tailwind,figma&theme=dark&perline=12" alt="tools" />
+</p>
+
+<p align="center"><sub>◆ &nbsp; ◆ &nbsp; ◆</sub></p>
+
+<p align="center">
+  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+    <picture>
+      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+      <img src="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1530,100:09090e&height=90&section=footer&text=currently%20learning%20deep%20learning&fontColor=cfc6e8&fontSize=18&fontAlign=50&fontAlignY=45&animation=fadeIn" width="100%" alt="" />
+</p>
