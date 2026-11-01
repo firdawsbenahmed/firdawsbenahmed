@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Firdaws%20BENAHMED&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=19&descAlignY=62" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=hey+there+%F0%9F%91%8B+I'm+Firdaws;AI+%26+Data+Science+enthusiast+%F0%9F%A7%A0;Passionate+about+building+intelligent+systems+%E2%9A%A1;Currently+learning+Deep+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
