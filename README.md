@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDBhajRwYm9qdjlyc2R3ZHZ3ZTUwam95MGtoaTN3OHJocjMydmo3YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" width="170" alt="" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/firdaws-benahmed-a88004282/">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090e,100:1a1530&height=230&section=header&text=FIRDAWS%20BENAHMED&fontColor=e6dcc3&fontSize=44&fontAlign=50&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE&descColor=cfc6e8&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Firdaws Benahmed" />
   </a>
