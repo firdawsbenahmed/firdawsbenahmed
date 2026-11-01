@@ -1,56 +1,6 @@
-<h1 align="center">hey there 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=I'm+Firdaws+BENAHMED;AI+%26+Data+Science+enthusiast;Passionate+about+building+intelligent+systems;Currently+learning+Deep+Learning" alt="Typing SVG" />
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td valign="middle" width="60%">
-      <h3>👩‍💻 About Me</h3>
-      <p>
-        Hi 👋, I'm Firdaws BENAHMED<br>
-        AI &amp; Data Science enthusiast<br>
-        Passionate about building intelligent systems<br>
-        🌱 Currently learning Deep Learning
-      </p>
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <!-- Put your anime picture in an "assets" folder of this repo and keep this name, or change the path -->
-      <img src="assets/anime.gif" width="260" alt="anime" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🛠 Skills</h3>
-
-<p align="center">
-  <b>AI / Data</b><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,jupyter&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Backend / Databases / DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,java,docker,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Frontend / Design</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,dart,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-    <picture>
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-      <img src="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=firdawsbenahmed.firdawsbenahmed&" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090e"/><stop offset="1" stop-color="#1a1530"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9b8ff" stop-opacity="0"/><stop offset=".5" stop-color="#e6dcc3"/><stop offset="1" stop-color="#c9b8ff" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#8b6cf0" stop-opacity=".35"/><stop offset="1" stop-color="#8b6cf0" stop-opacity="0"/></radialGradient>
+</defs><rect width="1000" height="110" rx="6" fill="url(#bg)"/><circle cx="788" cy="40" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.3s" begin="1.9s" repeatCount="indefinite"/></circle><circle cx="238" cy="62" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.8s" begin="1.8s" repeatCount="indefinite"/></circle><circle cx="780" cy="51" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.8s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="521" cy="46" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.2s" begin="2.5s" repeatCount="indefinite"/></circle><circle cx="664" cy="66" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.2s" begin="2.6s" repeatCount="indefinite"/></circle><circle cx="858" cy="60" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.4s" begin="0.5s" repeatCount="indefinite"/></circle><circle cx="437" cy="65" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.1s" begin="1.9s" repeatCount="indefinite"/></circle><circle cx="222" cy="53" r="1.3" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.7s" begin="3.2s" repeatCount="indefinite"/></circle><circle cx="779" cy="52" r="1" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.9s" begin="3.8s" repeatCount="indefinite"/></circle><circle cx="782" cy="45" r="0.8" fill="#e6dcc3"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="6.0s" begin="0.1s" repeatCount="indefinite"/></circle><line x1="250" y1="34" x2="750" y2="34" stroke="url(#ln)" stroke-width="1.2"/><rect x="496" y="30" width="8" height="8" fill="#e6dcc3" transform="rotate(45 500 34)"/>
+<text x="500" y="76" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19" letter-spacing="3" fill="#cfc6e8"><animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>currently learning deep learning</text></svg>
