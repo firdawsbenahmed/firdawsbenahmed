@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1530,100:09090e&height=90&section=footer&text=currently%20learning%20Robotics&fontColor=cfc6e8&fontSize=18&fontAlign=50&fontAlignY=45&animation=fadeIn" width="100%" alt="" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2MHQ3ZHFhaDZvcThpY3NtNG1yOHg5cTVvMnp4Mnl2ZmFrbHhxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C9VLSOoxiC4FYkbUxW/giphy.gif" width="420" alt="" />
 </p>
