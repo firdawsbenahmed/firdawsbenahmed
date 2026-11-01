@@ -50,7 +50,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
-
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
+</a>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=firdawsbenahmed.firdawsbenahmed&"  />
