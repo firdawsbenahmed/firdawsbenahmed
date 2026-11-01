@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=C9B8FF&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems;Passionate+about+AI+%26+Data+Science;Currently+learning+Robotics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=C9B8FF&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems;Passionate+about+AI+%26+Data+Science;Currently+learning+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,15 +58,9 @@
 <p align="center"><sub>◆ &nbsp; ◆ &nbsp; ◆</sub></p>
 
 <p align="center">
-  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-    <picture>
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-      <img src="https://gitcolors.vercel.app/api/svg?username=firdawsbenahmed&color=543687&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
-    </picture>
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2MHQ3ZHFhaDZvcThpY3NtNG1yOHg5cTVvMnp4Mnl2ZmFrbHhxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C9VLSOoxiC4FYkbUxW/giphy.gif" width="420" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2MHQ3ZHFhaDZvcThpY3NtNG1yOHg5cTVvMnp4Mnl2ZmFrbHhxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C9VLSOoxiC4FYkbUxW/giphy.gif" width="420" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1530,100:09090e&height=90&section=footer&text=currently%20learning%20deep%20learning&fontColor=cfc6e8&fontSize=18&fontAlign=50&fontAlignY=45&animation=fadeIn" width="100%" alt="" />
 </p>
